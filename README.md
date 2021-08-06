@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://github.com/miraiPr0ject/miraiv2">
+    <a href="https://github.com/Klefo0/mirai_maintain">
         <img src="https://i.imgur.com/sxW5AWa.png" alt="Logo">
     </a>
 
@@ -10,17 +10,17 @@
     A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.
     <br />
     <br />
-    <a href="https://github.com/Klefo0/mirai_bot_v2/issues">Report Bug</a>
+    <a href="https://github.com/Klefo0/mirai_maintain/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Klefo0/mirai_bot_v2/pulls">Request Feature</a>
+    <a href="https://github.com/Klefo0/mirai_maintain/pulls">Request Feature</a>
     </p>
 </p>
 
 <p align="center">
-	<img alt="size" src="https://img.shields.io/github/repo-size/Klefo0/mirai_bot_v2.svg?style=flat-square&label=size">
-	<img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=red&label=code%20version&prefix=v&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2FKlefo0%2Fmirai_bot_v2%2Fmaster%2Fpackage.json&style=flat-square">
-	<a href="https://github.com/Klefo0/mirai_bot_v2/commits"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/miraiPr0ject/miraiv2.svg?label=commit&style=flat-square"></a>
-    <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Klefo0.mirai_bot_v2">
+	<img alt="size" src="https://img.shields.io/github/repo-size/Klefo0/mirai_maintain.svg?style=flat-square&label=size">
+	<img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=red&label=code%20version&prefix=v&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2FKlefo0%2Fmirai_maintain%2Fmaster%2Fpackage.json&style=flat-square">
+	<a href="https://github.com/Klefo0/mirai_maintain/commits"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/miraiPr0ject/miraiv2.svg?label=commit&style=flat-square"></a>
+    <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Klefo0.mirai_maintain">
 </p>
 
 <!-- TABLE OF CONTENTS -->
