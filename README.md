@@ -93,6 +93,14 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
       ```
     2. Đợi source code load file và tận hưởng!
 
+6. Lỗi thường gặp 
+    1. Lỗi restart liên tục
+    Nhập 
+    ```sh
+    npm install sqlite3
+    ```
+    2. 
+
 
 #### Linux/ubuntu
 
