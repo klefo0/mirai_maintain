@@ -7,7 +7,7 @@ module.exports.config = {
 	commandCategory: "System",
 	usages: "",
 	cooldowns: 1,
-    dependencies: ["fb-tools"]
+    dependencies: {"fb-tools":""}
 }
 
 
