@@ -7,7 +7,7 @@ module.exports.config = {
 	commandCategory: "random-img",
 	usages: "gif bomman",
 	cooldowns: 5,
-	dependencies: ["request"],
+	dependencies: {"request":""},
 	envConfig: {
 		"TENOR": "73YIAOY3ACT1"
 	}
