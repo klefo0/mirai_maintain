@@ -10,7 +10,7 @@ module.exports.config = {
 	usages: "khanhsky [text]",
 	cooldowns: 10,
 	dependencies: {
-		"canvas":"",
+		"canvas":"2.8.0",
 		 "axios":"",
 		 "fs-extra":""
 	}
