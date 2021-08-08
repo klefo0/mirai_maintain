@@ -9,7 +9,7 @@ module.exports.config = {
   commandCategory: "Other",
   usages: "idbox",
   cooldowns: 5,
-  dependencies: ["request","fs"]
+  dependencies: {"request","fs"}
 };
 
 module.exports.run = async({api,event,args,client,Users,Threads,__GLOBAL,Currencies}) => {
