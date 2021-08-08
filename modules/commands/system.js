@@ -72,8 +72,7 @@ module.exports.run = async function ({ api, event }) {
 			"Platform: " + OSPlatform +
 			"\nBuild: " + OSBuild +
 			"\nUptime: " + hours + ":" + minutes + ":" + seconds +
-			"\nPing: " + (Date.now() - timeStart) + "ms",
-			event.threadID, event.messageID
+			"\nPing: " + (Date.now() - timeStart) + "ms", event.threadID, event.messageID
 		)
 	}
 	catch (e) {
