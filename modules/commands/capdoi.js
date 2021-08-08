@@ -1,6 +1,4 @@
-﻿const request = require("request");
-const fs = require("fs")
-const axios = require("axios")
+
 module.exports.config = {
   name: "capdoi",
   version: "1.0.0",
@@ -10,9 +8,13 @@ module.exports.config = {
   commandCategory: "Hình Ảnh",
   usages: "capdoi",
   cooldowns: 5,
-  dependencies: ["request","fs","axios"]
+  dependencies: {"request":"",
+                 "fs":"",
+                 "axios":""}
    };
-
+const request = require("request");
+const fs = require("fs")
+const axios = require("axios")
 module.exports.run = async({api,event,args,client,Users,Threads,__GLOBAL,Currencies}) => {
  var link = [
 "https://i.imgur.com/9w7x2Cw.jpg",
