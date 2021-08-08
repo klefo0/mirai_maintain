@@ -10,7 +10,7 @@
 		"fs-extra": "",
         "path": "",
         "node-fetch": "",
-        "canvas": ""
+        "canvas": "2.8.0"
 	},
 	cooldowns: 5,
 }
