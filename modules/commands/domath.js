@@ -1,4 +1,4 @@
-﻿module.exports.config = {
+module.exports.config = {
 	name: "domath",
 	version: "1.0.0",
 	hasPermssion: 0,
@@ -7,7 +7,7 @@
 	commandCategory: "Other",
 	usages: "domath [độ khó]",
 	cooldowns: 5,
-	dependencies: ["request"],
+	dependencies: {"request":""}
 };
 	
 module.exports.run = async ({ event, api, args, client, Currencies, Users, utils, __GLOBAL }) => {
