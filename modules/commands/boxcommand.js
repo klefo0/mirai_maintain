@@ -7,7 +7,9 @@ module.exports.config = {
 	commandCategory: "Group",
 	usages: "",
 	cooldowns: 1,
-	dependencies: ["request","fs"]
+	dependencies: {
+		"request":"",
+		"fs-extra":""
 };
 
 module.exports.run = async({api,event,args}) => {
