@@ -6,7 +6,7 @@ module.exports.config = {
 	description: "Kiểm tra/báo cáo trang web bạn hoặc ai đó không an toàn!",
 	commandCategory: "safety",
 	usages: "safety-check args",
-	dependencies: ["safe-browse-url-lookup"],
+	dependencies: {"safe-browse-url-lookup"},
 	cooldowns: 5,
 	info: [
 		{
