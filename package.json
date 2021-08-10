@@ -5,7 +5,6 @@
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
-		"login": "node login",
 		"test": "node --trace-warnings --use_strict --async-stack-traces mirai"
 	},
 	"repository": {
