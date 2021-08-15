@@ -4,7 +4,7 @@
     "DeveloperMode": false,
     "autoCreateDB": true,
     "allowInbox": true,
-    "autoClean": false,
+    "autoClean": true,
     "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
