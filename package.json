@@ -52,7 +52,7 @@
 		"request": "",
 		"semver": "",
 		"sequelize": "",
-		"sqlite3": "",
+		"sqlite3": "^5.0.2",
 		"string-similarity": "",
 		"totp-generator": ""
 	}
